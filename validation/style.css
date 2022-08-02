@@ -1,0 +1,53 @@
+
+.container{
+	
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 150px;
+	text-align: center;
+	background-color: #F6E3C5 ;
+	
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#heading{
+	padding-bottom: 10px;
+	font-style: italic;
+	
+}
+
+#sub{
+	background-color:#6CC4A1 ;
+	color: black;
+	border: none;
+
+}
+
+#sub:hover{
+	background-color: #4CACBC;
+}
+
+#span1{
+	background-color: #A0D995;
+}
+
+#sp{
+	background-color: #A0D995;
+}
+#pass{
+	border: none;
+}
+#email{
+	border: none;
+}
+#num{
+	border: none;
+}
+#fname{
+	border: none;
+}
+#lname{
+	border: none;
+}
